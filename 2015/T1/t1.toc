@@ -1,0 +1,23 @@
+\select@language {brazilian}
+\contentsline {section}{\numberline {1}Resultados}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Base Bin\IeC {\'a}ria}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}para Octal}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}para Decimal}{2}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}para Hexadecimal}{2}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}Verifica\IeC {\c c}\IeC {\~a}o de Bin\IeC {\'a}rio}{2}{subsubsection.1.1.4}
+\contentsline {subsection}{\numberline {1.2}Base Octal}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}para Binaria}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}para Decimal}{3}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}para Hexadecimal}{3}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Verifica\IeC {\c c}\IeC {\~a}o de Octal}{3}{subsubsection.1.2.4}
+\contentsline {subsection}{\numberline {1.3}Base Decimal}{4}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}para Binaria}{4}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}para Octal}{4}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}para Hexadecimal}{4}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Verifica\IeC {\c c}\IeC {\~a}o de Decimal}{4}{subsubsection.1.3.4}
+\contentsline {subsection}{\numberline {1.4}Base Hexadecimal}{5}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}para Binaria}{5}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}para Octal}{5}{subsubsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.3}para Decimal}{5}{subsubsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.4}Verifica\IeC {\c c}\IeC {\~a}o de Hexadecimal}{5}{subsubsection.1.4.4}
+\contentsline {section}{\numberline {2}Observa\IeC {\c c}\IeC {\~o}es}{6}{section.2}

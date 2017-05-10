@@ -1,0 +1,327 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3065,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mul",
+						"multiplicador"
+					],
+					[
+						"impri",
+						"ImprimeStr"
+					],
+					[
+						"j",
+						"jle	Jump (Lesser)"
+					],
+					[
+						"load",
+						"load	Load | rx = mem[END]"
+					],
+					[
+						"f",
+						"f_imprime"
+					],
+					[
+						"strcpy",
+						"Strcpy"
+					],
+					[
+						"digL",
+						"digLetra_Loop"
+					],
+					[
+						"inc",
+						"incloop"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/forca_final.asm",
+					"settings":
+					{
+						"buffer_size": 9423,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Assembly ICMC/Assembly ICMC.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/Sublime Text 3/forca_final.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/Lista Sarita/11.txt",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/3.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/fatorial.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/fat_rec.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/strcpy.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/1.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/2.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/Lista Sarita/1.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/Lista Sarita/exum.asm",
+				"/C/Dropbox/Public/Faculdade/Lab Org Comp/GTK/nave6.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/le_caracter.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/strcmp.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/imprime_empilhando.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2014/Programas/funcoesString/strcpy.asm",
+				"/C/Dropbox/Public/Faculdade/Org Comp/2014/Programas/funcoesString/strcmp.asm",
+				"/C/Users/Adams/Desktop/Simulador_Windows_Tudo_Pronto_Fácil/Simulador/Hello4.asm",
+				"/D/Simulador/Hello4.asm",
+				"/D/Teste Ambiente/Hello4.asm",
+				"/D/Teste Ambiente/leString.asm",
+				"/D/Teste Ambiente/forca.asm",
+				"/D/Teste Ambiente - Copia/Hello4.asm",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Teste Ambiente/printForca.asm",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/untitled.sublime-build",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.561/Assembly ICMC.sublime-build",
+				"/D/Documentos/USP/Prat_OrgC/Versao_05_2013/32_bits/Forca01.asm",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.040/Completion Rules.tmPreferences",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.959/C++.tmLanguage",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.091/C++.sublime-settings",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.196/C++.sublime-build",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.532/C.tmLanguage",
+				"/C/Users/CARLOS~1/AppData/Local/Temp/Rar$DRa0.207/Batch File.tmLanguage",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Cache/Assembly ICMC/Assembly_ICMC_Syntax.tmLanguage",
+				"/D/Teste Ambiente/Sublime Text 3/Data/Packages/User/Assembly ICMC.sublime-build",
+				"/D/Documentos/USP/Prat_OrgC/Aula_2015-03-04/Hello4.asm",
+				"/D/Teste Ambiente/Hello4.mif",
+				"/D/Teste Ambiente/Versao_05_2013/Exemplos/Hello4.asm"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"1",
+					"ImprimeStr",
+					"RTS",
+					"Pop",
+					"JNZ",
+					"Dec",
+					"Loadn",
+					"Push",
+					"ã",
+					"ç",
+					"ImprimeStr",
+					"ImprimeTela",
+					"xxx",
+					"imprime",
+					"imprimetela",
+					";",
+					"r*",
+					"r3",
+					"r2",
+					"r3"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"rts",
+					"pop",
+					"jnz",
+					"dec",
+					"loadn",
+					"push",
+					"a",
+					"c"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Dropbox/Public/Faculdade/Org Comp/2015/Simulador/forca_final.asm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9423,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										124,
+										124
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Assembly ICMC/Assembly ICMC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 179.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,646,31,107,687",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
